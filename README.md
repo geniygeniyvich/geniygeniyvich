@@ -18,7 +18,7 @@ _🔧 Я вчуся на **Frontend розробника**_
 
 ## 🏆 Мої досягнення
 
-- 🔥 Здав **2 практичних роботи**
+- 🔥 Здав **3 практичні роботи**
 - ⚒️ Всього виконано: **32 завдання**
 - 🌱 Постійно вчуся новому
 - 📁 Працюю над власним портфоліо
@@ -44,7 +44,7 @@ _🔧 Я вчуся на **Frontend розробника**_
 ## 🔗 Зі мною можна зв'язатися
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/geniy_geniyvich)
-[![Proton](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geniygeniyvich@proton.me)
+[![Proton](https://img.shields.io/badge/-Proton-6D4AFF?style=for-the-badge&logo=proton&logoColor=white))](mailto:geniygeniyvich@proton.me)
 
 ---
 
